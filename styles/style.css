@@ -205,6 +205,10 @@ ol {
   margin-top: 3px;
 }
 
+.content__details {
+  min-width: 399px;
+}
+
 .content__accent {
   color: #545050;
   font-family: Oswald , sans-serif;
