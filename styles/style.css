@@ -10,12 +10,14 @@ html {
 
 .page {
   inline-size: 1200px;
+  max-height: 800px;
   block-size: 100%;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+
 }
 
 h1,
@@ -53,6 +55,7 @@ ol {
   gap: 26px;
   width: 1140px;
   height: 534px;
+  justify-content: space-between;
   margin: 133px 30px;
 }
 
@@ -190,7 +193,6 @@ ol {
 .content__details {
   overflow-y: auto;
   overflow-x: hidden;
-  margin-right: -40px;
   padding-left: 5px;
   padding-top: 2px;
 }
@@ -211,7 +213,6 @@ ol {
   font-size: 75px;
   font-style: normal;
   font-weight: 700;
-  line-height: 94%;
   text-transform: uppercase;
 }
 
