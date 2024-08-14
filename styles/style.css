@@ -190,7 +190,7 @@ ol {
   text-decoration: underline;
 }
 
-.search-form__submit-button:active {
+.button:active {
   background: #545050;
 }
 
