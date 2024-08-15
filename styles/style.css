@@ -322,8 +322,3 @@ ol {
   outline: 1px solid #fff;
   outline-offset: 2px;
 }
-
-.more-button:hover {
-  cursor: pointer;
-  text-decoration: underline;
-}
